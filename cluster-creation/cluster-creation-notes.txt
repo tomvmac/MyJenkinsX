@@ -2,21 +2,7 @@ Cluster Creation Notes:
 
 external cluster url:
 
-ab5c3c6e2960411e985c0067eb06e40d-0a6aeeeec85d9c94.elb.us-east-2.amazonaws.com
-
-If you do not have a custom domain setup yet, Ingress rules will be set for magic DNS nip.io.
-Once you have a custom domain ready, you can update with the command jx upgrade ingress --cluster
-? Domain [? for help] (3.130.156.1.nip.io)
-
-error: installing the Jenkins X platform: failed to wait for jenkins-x chart installation to be ready: Unauthorized
-
-------------------------------------------------------------------------------------------------------
-
-http://aeff52789961211e9a79806f5b9cb6a9-8349675ccae85489.elb.us-east-2.amazonaws.com/
-
-http://aeff52789961211e9a79806f5b9cb6a9-8349675ccae85489.elb.us-east-2.amazonaws.com
-
-(3.130.96.10.nip.io)
+aea9576d496c011e9bc170ac7325003f-9c7109bbf5eba00b.elb.us-west-2.amazonaws.com
 
 --------------------------------------------------------------------------------------------------------------
 
@@ -30,3 +16,8 @@ WARNING: Job expose has not yet terminated for helm hook phase post-upgrade due 
 WARNING: waiting for install to be ready, if this is the first time then it will take a while to download images
 
 error: installing the Jenkins X platform: failed to wait for jenkins-x chart installation to be ready: Unauthorized
+
+----------------------------------------------------------------------------------------------------------------
+
+
+
