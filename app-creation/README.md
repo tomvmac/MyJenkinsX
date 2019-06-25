@@ -22,6 +22,7 @@ $ jx get build logs
 $ jx get applications
 $ jx get env
 $ jx get urls
+$ jx status
 ```
 
 ### Code Pipeline Workflow:
